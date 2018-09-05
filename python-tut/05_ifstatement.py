@@ -8,5 +8,7 @@ if z < y > x > a:
     print('z < y > x > a')
 elif z > y > x < a:
     print('z > y > x < a')
+elif z > y < x < a:
+    print('z > y < x < a')
 else:
     print('All statements are false')
