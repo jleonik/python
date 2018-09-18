@@ -17,10 +17,10 @@ simple_addition(3,5)
 def simple(num1,num2):
     pass
 
-def simple(num1,num2=5):
+def simple2(num1,num2=5):
     print(num1,num2)
 
-simple(2) #Since one of the params has a default value, we need to provide only one param instead of two
+simple2(2) #Since one of the params has a default value, we need to provide only one param instead of two
 
 def basic_window(width,height,font='TNR',bgc='w',scrollbar=True):
     print(width,height,font,bgc)
