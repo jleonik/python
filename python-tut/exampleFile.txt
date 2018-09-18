@@ -1,0 +1,3 @@
+Sample Text
+New line
+New bit of text
